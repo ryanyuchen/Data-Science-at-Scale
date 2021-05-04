@@ -1,3 +1,5 @@
-# Data Science at Scale
+datasci_course_materials
+========================
 
-This repo consists of materials for "Data Science at Scale" specialization from Coursera, which is offered by University of Washington.
+Public repository for course materials for the Data Science at Scale specialization offered by Coursera and the University of Washington.
+
